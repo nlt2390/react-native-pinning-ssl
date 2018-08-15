@@ -1,0 +1,18 @@
+{
+  "name": "react-native-pinning-ssl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "leLabrador",
+  "license": "",
+  "devDependencies": {
+    "react": "16.3.1",
+    "react-native": "^0.55.2"
+  }
+}
