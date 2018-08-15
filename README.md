@@ -35,9 +35,8 @@ A react-native library for pinning SSL using SHA-1 public key.
   	```
 
 ## Get SHA-1 key
-![](https://raw.githubusercontent.com/nlt2390/react-native-pinning-ssl/master/getKey1.jpg)
-
-![](https://raw.githubusercontent.com/nlt2390/react-native-pinning-ssl/master/getKey2.jpg)
+<img src="https://raw.githubusercontent.com/nlt2390/react-native-pinning-ssl/master/getKey1.jpg" width="500"/>
+<img src="https://raw.githubusercontent.com/nlt2390/react-native-pinning-ssl/master/getKey2.jpg" width="500"/>
 
 
 ## Usage
