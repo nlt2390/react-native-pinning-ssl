@@ -47,9 +47,9 @@ import { isSSLValid } from 'react-native-pinning-ssl';
 async function runSSLPinning(){
 	try{
 		const result = await isSSLValid({
-			url: 'https://www.google.com/',
-			hashes: ['76 FB 50 5F 7C 81 7D 89 6B 42 14 24 43 DE 86 E7 3C D9 85 5F'],
-			domainNames: ['google.com'],
+			url: 'https://github.com/',
+			hashes: ['CA 06 F5 6B 25 8B 7A 0D 4F 2B 05 47 09 39 47 86 51 15 19 84'],
+			domainNames: ['github.com'],
 		});
 		
 		return result;
