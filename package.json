@@ -1,13 +1,22 @@
 {
   "name": "react-native-pinning-ssl",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A react-native library for pinning SSL using SHA-1 public key",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "homepage": "https://github.com/nlt2390/react-native-pinning-ssl",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nlt2390/react-native-pinning-ssl"
+  },
   "keywords": [
-    "react-native"
+    "react",
+    "native",
+    "pinning",
+    "ssl",
+    "react-native-pinning-ssl"
   ],
   "author": "leLabrador",
   "license": "",
