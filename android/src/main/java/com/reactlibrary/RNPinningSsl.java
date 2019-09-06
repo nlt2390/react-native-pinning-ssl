@@ -61,7 +61,7 @@ public class RNPinningSsl extends ReactContextBaseJavaModule {
       }
 
       if(isValid == false){
-        promise.reject("SSL Pinning", "Failed");
+        return false;
       }
 
     } catch (Exception e) {

@@ -45,8 +45,7 @@ RCT_EXPORT_METHOD(getStatus:(NSString *)inputUrl
       if(isValid){
         resolve(@YES);
       } else {
-        NSString *msgError = @"SSL pinning failed";
-        reject(@"9", msgError,  sslPinningError(msgError));
+        resolve(@NO);
       }
     }
     hashes = [NSMutableArray array];
