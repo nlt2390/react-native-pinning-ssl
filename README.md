@@ -66,9 +66,9 @@ NSURLAuthenticationChallenge+Fingerprint credited to [https://stackoverflow.com/
 
 
 #### Donation
-<img src="https://www.cardanohub.org/wp-content/uploads/2017/07/cardano-symbol-150x150.png" width="70"/>
+<img src="https://www.pngjoy.com/pngm/90/1911973_bitcoin-logo-ada-cardano-logo-png-download.png" width="70"/>
 Help to make cryptocurrency world bigger :))
 
 My <a href="https://www.cardanohub.org/en/home/" target="_blank">ADA</a> wallet: 
 
-DdzFFzCqrht7vQmuSYrjn6PKDxW3on4cFznU4Jjjycp1bqVTvXngM8wN7sop1Haq7msc5NanULU8TyAG9UuLLZMynfroiHKr2aiiTaMM
+addr1qyfv8tge2m5a6zxnxk9mga7n435tfpllrpxjy2ywljva367japfsnnvef3ttszwfdgphyhzcrw9tq0xpfjkpx4v2zydqcf52av
