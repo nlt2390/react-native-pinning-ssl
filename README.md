@@ -64,11 +64,3 @@ runSSLPinning();
 
 NSURLAuthenticationChallenge+Fingerprint credited to [https://stackoverflow.com/a/26963381](https://stackoverflow.com/a/26963381)
 
-
-#### Donation
-<img src="https://cryptologos.cc/logos/cardano-ada-logo.png" width="70"/>
-Help to make cryptocurrency world bigger :))
-
-My <a href="https://www.cardanohub.org/en/home/" target="_blank">ADA</a> wallet: 
-
-addr1qyfv8tge2m5a6zxnxk9mga7n435tfpllrpxjy2ywljva367japfsnnvef3ttszwfdgphyhzcrw9tq0xpfjkpx4v2zydqcf52av
